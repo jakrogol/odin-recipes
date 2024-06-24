@@ -1,0 +1,19 @@
+* {
+  font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+}
+
+ul.recipes {
+  list-style: none;
+  text-align: center;
+}
+
+.main-header {
+  font-family: "Garamond", serif;
+  font-size: 72px;
+  text-align: center;
+}
+
+img {
+  width: 600px;
+  height: auto;
+}
